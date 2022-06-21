@@ -11,7 +11,7 @@ public class greater_no {
        
 
 	}
-	public static void  greater_no() 
+	public   greater_no() 
 	{
        
 		System.out.print("Please enter the five  numbers : ");
